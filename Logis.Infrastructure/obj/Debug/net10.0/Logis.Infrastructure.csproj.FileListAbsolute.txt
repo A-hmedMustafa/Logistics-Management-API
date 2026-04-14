@@ -1,0 +1,17 @@
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\bin\Debug\net10.0\Logis.Infrastructure.deps.json
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\bin\Debug\net10.0\Logis.Infrastructure.dll
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\bin\Debug\net10.0\Logis.Infrastructure.pdb
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\bin\Debug\net10.0\Logis.Application.dll
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\bin\Debug\net10.0\Logis.Domain.dll
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\bin\Debug\net10.0\Logis.Application.pdb
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\bin\Debug\net10.0\Logis.Domain.pdb
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\obj\Debug\net10.0\Logis.Infrastructure.csproj.AssemblyReference.cache
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\obj\Debug\net10.0\Logis.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\obj\Debug\net10.0\Logis.Infrastructure.AssemblyInfoInputs.cache
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\obj\Debug\net10.0\Logis.Infrastructure.AssemblyInfo.cs
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\obj\Debug\net10.0\Logis.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\obj\Debug\net10.0\Logis.In.7BA0EB06.Up2Date
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\obj\Debug\net10.0\Logis.Infrastructure.dll
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\obj\Debug\net10.0\refint\Logis.Infrastructure.dll
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\obj\Debug\net10.0\Logis.Infrastructure.pdb
+D:\Logis.Api\Logis.Api\Logis.Infrastructure\obj\Debug\net10.0\ref\Logis.Infrastructure.dll

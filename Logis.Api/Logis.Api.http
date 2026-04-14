@@ -1,0 +1,6 @@
+@Logis.Api_HostAddress = http://localhost:5182
+
+GET {{Logis.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

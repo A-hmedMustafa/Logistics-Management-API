@@ -1,0 +1,11 @@
+D:\Logis.Api\Logis.Api\Logis.Domain\bin\Debug\net10.0\Logis.Domain.deps.json
+D:\Logis.Api\Logis.Api\Logis.Domain\bin\Debug\net10.0\Logis.Domain.dll
+D:\Logis.Api\Logis.Api\Logis.Domain\bin\Debug\net10.0\Logis.Domain.pdb
+D:\Logis.Api\Logis.Api\Logis.Domain\obj\Debug\net10.0\Logis.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logis.Api\Logis.Api\Logis.Domain\obj\Debug\net10.0\Logis.Domain.AssemblyInfoInputs.cache
+D:\Logis.Api\Logis.Api\Logis.Domain\obj\Debug\net10.0\Logis.Domain.AssemblyInfo.cs
+D:\Logis.Api\Logis.Api\Logis.Domain\obj\Debug\net10.0\Logis.Domain.csproj.CoreCompileInputs.cache
+D:\Logis.Api\Logis.Api\Logis.Domain\obj\Debug\net10.0\Logis.Domain.dll
+D:\Logis.Api\Logis.Api\Logis.Domain\obj\Debug\net10.0\refint\Logis.Domain.dll
+D:\Logis.Api\Logis.Api\Logis.Domain\obj\Debug\net10.0\Logis.Domain.pdb
+D:\Logis.Api\Logis.Api\Logis.Domain\obj\Debug\net10.0\ref\Logis.Domain.dll

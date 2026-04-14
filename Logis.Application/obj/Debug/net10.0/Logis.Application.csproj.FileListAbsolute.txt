@@ -1,0 +1,15 @@
+D:\Logis.Api\Logis.Api\Logis.Application\bin\Debug\net10.0\Logis.Application.deps.json
+D:\Logis.Api\Logis.Api\Logis.Application\bin\Debug\net10.0\Logis.Application.dll
+D:\Logis.Api\Logis.Api\Logis.Application\bin\Debug\net10.0\Logis.Application.pdb
+D:\Logis.Api\Logis.Api\Logis.Application\bin\Debug\net10.0\Logis.Domain.dll
+D:\Logis.Api\Logis.Api\Logis.Application\bin\Debug\net10.0\Logis.Domain.pdb
+D:\Logis.Api\Logis.Api\Logis.Application\obj\Debug\net10.0\Logis.Application.csproj.AssemblyReference.cache
+D:\Logis.Api\Logis.Api\Logis.Application\obj\Debug\net10.0\Logis.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logis.Api\Logis.Api\Logis.Application\obj\Debug\net10.0\Logis.Application.AssemblyInfoInputs.cache
+D:\Logis.Api\Logis.Api\Logis.Application\obj\Debug\net10.0\Logis.Application.AssemblyInfo.cs
+D:\Logis.Api\Logis.Api\Logis.Application\obj\Debug\net10.0\Logis.Application.csproj.CoreCompileInputs.cache
+D:\Logis.Api\Logis.Api\Logis.Application\obj\Debug\net10.0\Logis.Ap.2ACA88DC.Up2Date
+D:\Logis.Api\Logis.Api\Logis.Application\obj\Debug\net10.0\Logis.Application.dll
+D:\Logis.Api\Logis.Api\Logis.Application\obj\Debug\net10.0\refint\Logis.Application.dll
+D:\Logis.Api\Logis.Api\Logis.Application\obj\Debug\net10.0\Logis.Application.pdb
+D:\Logis.Api\Logis.Api\Logis.Application\obj\Debug\net10.0\ref\Logis.Application.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Logis.Api/Logis.Api.csproj" />
+  <Project Path="Logis.Application/Logis.Application.csproj" />
+  <Project Path="Logis.Domain/Logis.Domain.csproj" />
+  <Project Path="Logis.Infrastructure/Logis.Infrastructure.csproj" />
+</Solution>

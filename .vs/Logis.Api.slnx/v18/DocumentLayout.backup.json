@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Logis.Api\\Logis.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E93563A-522F-8BB1-D0C9-A14021A9876B}|Logis.Api\\Logis.Api.csproj|d:\\logis.api\\logis.api\\logis.api\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E93563A-522F-8BB1-D0C9-A14021A9876B}|Logis.Api\\Logis.Api.csproj|solutionrelative:logis.api\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E93563A-522F-8BB1-D0C9-A14021A9876B}|Logis.Api\\Logis.Api.csproj|d:\\logis.api\\logis.api\\logis.api\\middleware\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E93563A-522F-8BB1-D0C9-A14021A9876B}|Logis.Api\\Logis.Api.csproj|solutionrelative:logis.api\\middleware\\correlationidmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E93563A-522F-8BB1-D0C9-A14021A9876B}|Logis.Api\\Logis.Api.csproj|d:\\logis.api\\logis.api\\logis.api\\middleware\\apiexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E93563A-522F-8BB1-D0C9-A14021A9876B}|Logis.Api\\Logis.Api.csproj|solutionrelative:logis.api\\middleware\\apiexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E93563A-522F-8BB1-D0C9-A14021A9876B}|Logis.Api\\Logis.Api.csproj|d:\\logis.api\\logis.api\\logis.api\\contratcs\\apivalidationproblemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E93563A-522F-8BB1-D0C9-A14021A9876B}|Logis.Api\\Logis.Api.csproj|solutionrelative:logis.api\\contratcs\\apivalidationproblemfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E93563A-522F-8BB1-D0C9-A14021A9876B}|Logis.Api\\Logis.Api.csproj|d:\\logis.api\\logis.api\\logis.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E93563A-522F-8BB1-D0C9-A14021A9876B}|Logis.Api\\Logis.Api.csproj|solutionrelative:logis.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 121,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\Logis.Api\\Logis.Api\\Logis.Api\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Logis.Api\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "D:\\Logis.Api\\Logis.Api\\Logis.Api\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "Logis.Api\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:54:48.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CorrelationIdMiddleware.cs",
+              "DocumentMoniker": "D:\\Logis.Api\\Logis.Api\\Logis.Api\\Middleware\\CorrelationIdMiddleware.cs",
+              "RelativeDocumentMoniker": "Logis.Api\\Middleware\\CorrelationIdMiddleware.cs",
+              "ToolTip": "D:\\Logis.Api\\Logis.Api\\Logis.Api\\Middleware\\CorrelationIdMiddleware.cs",
+              "RelativeToolTip": "Logis.Api\\Middleware\\CorrelationIdMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:54:45.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\Logis.Api\\Logis.Api\\Logis.Api\\Middleware\\ApiExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Logis.Api\\Middleware\\ApiExceptionMiddleware.cs",
+              "ToolTip": "D:\\Logis.Api\\Logis.Api\\Logis.Api\\Middleware\\ApiExceptionMiddleware.cs",
+              "RelativeToolTip": "Logis.Api\\Middleware\\ApiExceptionMiddleware.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:54:28.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiValidationProblemFactory.cs",
+              "DocumentMoniker": "D:\\Logis.Api\\Logis.Api\\Logis.Api\\Contratcs\\ApiValidationProblemFactory.cs",
+              "RelativeDocumentMoniker": "Logis.Api\\Contratcs\\ApiValidationProblemFactory.cs",
+              "ToolTip": "D:\\Logis.Api\\Logis.Api\\Logis.Api\\Contratcs\\ApiValidationProblemFactory.cs",
+              "RelativeToolTip": "Logis.Api\\Contratcs\\ApiValidationProblemFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T17:53:57.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Logis.Api\\Logis.Api\\Logis.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Logis.Api\\Program.cs",
+              "ToolTip": "D:\\Logis.Api\\Logis.Api\\Logis.Api\\Program.cs",
+              "RelativeToolTip": "Logis.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T15:07:39.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
